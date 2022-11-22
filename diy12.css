@@ -1,0 +1,24 @@
+
+.col{
+    border: 1px solid black;
+}
+.box{
+    background-color: blue;
+    height: 50px;
+}
+#pinkrow{
+    height: 50px;
+background-color: pink;
+}
+
+#bluerow{
+    height: 50px;
+    background-color: skyblue;
+}
+
+#greenrow{
+    height: 50px;
+    background-color: lightgreen;
+}
+
+
